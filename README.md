@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# GMO Blog Continued
 
-You can use the [editor on GitHub](https://github.com/wdeaton/Gmos-Blog-Science/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Gmo Science
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Now that we know some of the history of GMOs, let us discuss the science behind the product. The name Genetically Modified Organism gives a hint about how GMOs are created. Scientists can change the genetic code of an organism but cutting out certain genes and replacing them with more favorable genes. This event is called gene editing. Here is a simplified rundown of how it all works. 
 
-### Markdown
+## How They Make GMOs
+- First, they choose the gene, or DNA fragment, to cut out and replace.
+- Scientist will then use bacterial enzymes to cut the fragments. 
+- Vectors such as viruses and bacteria can then insert the new fragment into the host organism.
+- They can also use microinjection or a gene gun to insert the genetic material. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![DNASplice](https://github.com/wdeaton/Gmos-Blog-Science/blob/master/DNAofGmo.jpeg)
 
-```markdown
-Syntax highlighted code block
+## Dictionary
+- **DNA** is an acronym for Deoxyribonucleic Acid. DNA stores all the genetic coding for an individual. 
+- **Genes** are the coding sequences for how you look, what your hair color is, what type of physical build you have, and all this information comes from your parents and ancestors. 
+- **Vectors** is any organism that can carry viruses and bacteria into a host organism. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wdeaton/Gmos-Blog-Science/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I would like to clarify one thing. When scientists use words like _viruses_ and _bacteria_ discussing GMOs, they are not talking about ones dangerous to humans. Plants, animals, and even humans are covered in bacteria and viruses, most of the time their numbers are in such small amounts that they pose no threat to the organism they are on. Some bacterias are even good for certain organisms. My goal with these blogs is to inform you about GMOs and let you make your own decision about them. 
