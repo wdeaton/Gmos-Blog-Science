@@ -10,7 +10,7 @@ Now that we know some of the history of GMOs, let us discuss the science behind 
 - Vectors such as viruses and bacteria can then insert the new fragment into the host organism.
 - They can also use microinjection or a gene gun to insert the genetic material. 
 
-![DNASplice](https://github.com/wdeaton/Gmos-Blog-Science/blob/master/DNAofGmo.jpeg)
+![dnaofgmo](https://user-images.githubusercontent.com/43043543/47853458-cee49380-ddac-11e8-858c-281c98d451c1.jpeg)
 
 ## Dictionary
 - **DNA** is an acronym for Deoxyribonucleic Acid. DNA stores all the genetic coding for an individual. 
