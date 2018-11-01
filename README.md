@@ -22,6 +22,7 @@ I would like to clarify one thing. When scientists use words like _viruses_ and 
 ## Home Page
 
 To go back to the home page, click here! [Home](https://wdeaton.github.io/GMO-Introduction/)
+
 ## Gmo History
 
 To view Blog one, click here! [GMO History](https://wdeaton.github.io/Gmos-Blog/)
