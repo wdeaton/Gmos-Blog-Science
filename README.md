@@ -19,7 +19,7 @@ Now that we know some of the history of GMOs, let us discuss the science behind 
 
 ![cropbacteria](https://user-images.githubusercontent.com/43043543/47854259-4d423500-ddaf-11e8-83f4-17829e3c0999.jpg)
 
-I would like to clarify one thing. When scientists use words like _viruses_ and _bacteria_ discussing GMOs, they are not talking about ones dangerous to humans. Plants, animals, and even humans are covered in bacteria and viruses, most of the time their numbers are in such small amounts that they pose no threat to the organism they are on. Some bacterias are even good for certain organisms. My goal with these blogs is to inform you about GMOs and let you make your own decision about them. 
+I would like to clarify one thing. When scientists use words like _viruses_ and _bacteria_ discussing GMOs, they are not talking about ones dangerous to humans. Plants, animals, and even humans are covered in bacteria and viruses, most of the time their numbers are in such small amounts that they pose no threat to the organism they are on. Some bacteria's are even good for certain organisms. My goal with these blogs is to inform you about GMOs and let you make your own decision about them. 
 
 ---
 
