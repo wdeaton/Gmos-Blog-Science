@@ -18,3 +18,14 @@ Now that we know some of the history of GMOs, let us discuss the science behind 
 - **Vectors** is any organism that can carry viruses and bacteria into a host organism. 
 
 I would like to clarify one thing. When scientists use words like _viruses_ and _bacteria_ discussing GMOs, they are not talking about ones dangerous to humans. Plants, animals, and even humans are covered in bacteria and viruses, most of the time their numbers are in such small amounts that they pose no threat to the organism they are on. Some bacterias are even good for certain organisms. My goal with these blogs is to inform you about GMOs and let you make your own decision about them. 
+
+## Home Page
+
+To go back to the home page, click here! [Home](https://wdeaton.github.io/GMO-Introduction/)
+## Gmo History
+
+To view Blog one, click here! [GMO History](https://wdeaton.github.io/Gmos-Blog/)
+
+## Gmo Examples
+
+To view the Blog three, click here! [GMO Examples](https://wdeaton.github.io/GMOExamples/)
